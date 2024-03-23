@@ -1,11 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #d13c3c;
+    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
 }
 
-.login-container {
+.registration-container {
     width: 360px;
     margin: 100px auto;
     background-color: #fff;
@@ -29,6 +29,7 @@ label {
 }
 
 input[type="text"],
+input[type="email"],
 input[type="password"] {
     width: 100%;
     padding: 8px;
